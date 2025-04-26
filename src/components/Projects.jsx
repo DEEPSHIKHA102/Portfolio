@@ -36,7 +36,7 @@ function Projects() {
       title: "Online food ordering System",
       description: "Craving something delicious? Order your favorite meals online with ease — fresh, fast, and delivered right to your door",
       technologies: ["React", "Express", "MongoDB", "Node.js"],
-      githubLink: "https://github.com/MrityunjayMaharana/Planit",
+      githubLink: "https://github.com/DEEPSHIKHA102/Online-ordering-food-System.git",
       liveLink: "#",
       imagePath: i4,
     },
